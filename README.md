@@ -3,7 +3,7 @@ A fullstack messenger project created soley using swift.
 
 The Frontend...
 - MVC design pattern
-- UI designed using a combinatation of programatic code and storyboard.
+- UI designed using a combination of programatic code and storyboard.
 - Used protocols and delegates to pass information between view controllers.
 - Vigorous error handling system
 - Used Structs and Enums used to keep code more maintainable and DRY.
@@ -12,8 +12,8 @@ The Frontend...
 
 The Backend...
 - REST API created in swift
-- Websockets implemented via firebase's real time database
-- Authentication implmented using firebase auth.
+- Websockets implemented via Firebase's real time database
+- Authentication implmented using Firebase Auth.
 - Used Firebase real time database to store non-relational data.
 - Used Firebase storage to store videos and images. 
 - Used Swifts's location manager to allow for location messages.
